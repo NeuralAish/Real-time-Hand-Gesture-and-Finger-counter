@@ -18,11 +18,7 @@ This project demonstrates the practical application of computer vision, gesture 
 - Simple and beginner-friendly implementation  
 
 ---
-
-## 🛠️ Technologies Used
-- Python 3.10  
-- OpenCV – video capture and visualization  
-- MediaPipe – hand landmark detection  
-- NumPy – numerical operations  
-
----
+## 📷 Output Examples
+- ✊ Closed fist → 0  
+- 🖐️ One hand open → 5  
+- 🖐️🖐️ Both hands open → 10
