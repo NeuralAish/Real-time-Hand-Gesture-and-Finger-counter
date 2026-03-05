@@ -15,6 +15,6 @@
  
 ---
 ## 📷 Output Examples
-- ✊ Closed fist → 0  
-- 🖐️ One hand open → 5  
-- 🖐️🖐️ Both hands open → 10
+-  Closed fist → 0  
+-  One hand open → 5  
+-  Both hands open → 10
