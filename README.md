@@ -13,7 +13,7 @@ It is built using MediaPipe for accurate hand landmark detection and OpenCV for 
 - Supports single hand and both hands  
 - Works with left and right hand  
 - Accurate palm and finger landmark tracking  
-- Simple and beginner-friendly implementation  
+- Simple and beginner-friendly implementation 
 
 ---
 ## 📷 Output Examples
