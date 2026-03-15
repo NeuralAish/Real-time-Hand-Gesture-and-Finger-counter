@@ -60,7 +60,7 @@ while True:
             if lm[20].y < lm[18].y:
                 fingers += 1
 
-            # Assign counts
+
             if hand_label == "Left":
                 left_fingers = fingers
             else:
