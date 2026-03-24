@@ -15,8 +15,4 @@ It is built using MediaPipe for accurate hand landmark detection and OpenCV for 
 - Accurate palm and finger landmark tracking  
 - Simple and beginner-friendly implementation 
 
----
-## 📷 Output Examples
--  Closed fist → 0  
--  One hand open → 5  
--  Both hands open → 10
+
