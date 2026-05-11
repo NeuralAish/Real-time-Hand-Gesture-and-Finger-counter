@@ -1,3 +1,4 @@
+# ✋ Real-Time Hand Gesture and Finger Counter
 
 ## 📌 Description
 Real-Time Hand Gesture and Finger Counter is a computer vision–based Python project that uses a webcam to detect human hands and count the number of fingers shown in real time.  
